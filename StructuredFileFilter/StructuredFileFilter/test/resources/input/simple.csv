@@ -1,0 +1,27 @@
+HF:Financing scheme,HC:Function,HP:Provider,LOCATION:Country,TIME:Year,MSR:Value
+HFTOT:All financing schemes,HCTOT:Current expenditure on health (all functions),HPTOT:All providers,AUT:Austria,2010,4261.055
+HFTOT:All financing schemes,HCTOT:Current expenditure on health (all functions),HPTOT:All providers,AUT:Austria,2011,4345.16
+HFTOT:All financing schemes,HCTOT:Current expenditure on health (all functions),HPTOT:All providers,AUT:Austria,2012,4588.344
+HFTOT:All financing schemes,HCTOT:Current expenditure on health (all functions),HPTOT:All providers,AUT:Austria,2013,4767.085
+HFTOT:All financing schemes,HCTOT:Current expenditure on health (all functions),HPTOT:All providers,AUT:Austria,2014,4858.33
+HFTOT:All financing schemes,HCTOT:Current expenditure on health (all functions),HPTOT:All providers,AUT:Austria,2015,4943.515
+HFTOT:All financing schemes,HCTOT:Current expenditure on health (all functions),HPTOT:All providers,AUT:Austria,2016,5195.531
+HFTOT:All financing schemes,HCTOT:Current expenditure on health (all functions),HPTOT:All providers,AUT:Austria,2017,5315.353
+HFTOT:All financing schemes,HCTOT:Current expenditure on health (all functions),HPTOT:All providers,AUT:Austria,2018,5544.767
+HFTOT:All financing schemes,HCTOT:Current expenditure on health (all functions),HPTOT:All providers,AUT:Austria,2019,5705.102
+HFTOT:All financing schemes,HCTOT:Current expenditure on health (all functions),HPTOT:All providers,AUT:Austria,2020,5899.139
+HF1:Government/compulsory schemes,HCTOT:Current expenditure on health (all functions),HP4:Providers of ancillary services,AUS:Australia,2010,176.098
+HF1:Government/compulsory schemes,HCTOT:Current expenditure on health (all functions),HP4:Providers of ancillary services,AUS:Australia,2011,188.223
+HF1:Government/compulsory schemes,HCTOT:Current expenditure on health (all functions),HP4:Providers of ancillary services,AUS:Australia,2012,189.654
+HF1:Government/compulsory schemes,HCTOT:Current expenditure on health (all functions),HP4:Providers of ancillary services,AUS:Australia,2013,204.964
+HF1:Government/compulsory schemes,HCTOT:Current expenditure on health (all functions),HP4:Providers of ancillary services,AUS:Australia,2014,211.677
+HF1:Government/compulsory schemes,HCTOT:Current expenditure on health (all functions),HP4:Providers of ancillary services,AUS:Australia,2015,221.344
+HF1:Government/compulsory schemes,HCTOT:Current expenditure on health (all functions),HP4:Providers of ancillary services,AUS:Australia,2016,235.389
+HF1:Government/compulsory schemes,HCTOT:Current expenditure on health (all functions),HP4:Providers of ancillary services,AUS:Australia,2017,243.12
+HF1:Government/compulsory schemes,HCTOT:Current expenditure on health (all functions),HP4:Providers of ancillary services,AUS:Australia,2018,243.447
+HF2HF3:Voluntary schemes/household out-of-pocket payments,HC0:Other health care services unknown,HPTOT:All providers,AUS:Australia,2013,0.151
+HF2HF3:Voluntary schemes/household out-of-pocket payments,HC0:Other health care services unknown,HPTOT:All providers,AUS:Australia,2014,0.003
+HF2HF3:Voluntary schemes/household out-of-pocket payments,HC0:Other health care services unknown,HPTOT:All providers,AUS:Australia,2015,0.013
+HF2HF3:Voluntary schemes/household out-of-pocket payments,HC0:Other health care services unknown,HPTOT:All providers,AUS:Australia,2016,0.012
+HF2HF3:Voluntary schemes/household out-of-pocket payments,HC0:Other health care services unknown,HPTOT:All providers,AUS:Australia,2017,0.014
+HF2HF3:Voluntary schemes/household out-of-pocket payments,HC0:Other health care services unknown,HPTOT:All providers,AUS:Australia,2018,0.018
